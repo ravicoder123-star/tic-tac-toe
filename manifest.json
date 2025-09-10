@@ -8,6 +8,10 @@
   "background_color": "#000000",
   "theme_color": "#000000",
   "description": "A fun Tic Tac Toe game with enhanced features.",
+  "orientation": "portrait",
+  "categories": ["games", "puzzle", "entertainment"],
+  "lang": "en",
+  "dir": "ltr",
   "icons": [
     {
       "src": "icon-192.png",
